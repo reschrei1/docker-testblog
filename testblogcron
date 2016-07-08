@@ -1,1 +1,2 @@
+* * * * * root /data/bin/testblog.sh >> /var/log/testblog.log 2>&1
 
